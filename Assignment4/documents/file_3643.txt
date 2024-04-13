@@ -1,0 +1,2 @@
+a transistorized decade amplifier for low level audio frequency applications
+national electronics conference paper

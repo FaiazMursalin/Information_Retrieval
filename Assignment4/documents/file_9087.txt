@@ -1,0 +1,2 @@
+explicit formulae for the calculation of the characteristic function
+of filters with tchebycheff pass band behaviour

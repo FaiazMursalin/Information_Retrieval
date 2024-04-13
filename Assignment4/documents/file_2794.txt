@@ -1,0 +1,2 @@
+dynamic testing of computer building blocks  a variable frequency
+pulse source with repetition frequency up to is described

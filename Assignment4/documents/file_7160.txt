@@ -1,0 +1,2 @@
+an electronic control device  description of a high precision voltage
+regulator suitable for a rotary generator

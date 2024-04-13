@@ -1,0 +1,2 @@
+the realizability conditions for the impedance functions of electrical
+two pole networks allowing for losses in coils and capacitors
